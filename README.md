@@ -8,16 +8,6 @@
 <a target="_blank" href="mailto:minjuice.dev@gmail.com?subject=Hello,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>
 </p> -->
 
-&nbsp;
-### &nbsp;🛠&nbsp;Tech Stack
- <p>
-<img src="https://img.shields.io/badge/Javascript-ffdd19?style=flat&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled--components-D42F8A?style=flat&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-181717?style=flat&logo=git&logoColor=white">
- <img src="https://img.shields.io/badge/notion-7478AE?style=flat&logo=notion&logoColor=white">  
-</p>
 
 &nbsp;
 ### &nbsp;💻&nbsp;Stats
