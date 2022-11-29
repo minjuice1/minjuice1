@@ -13,11 +13,8 @@
  <p>
 <img src="https://img.shields.io/badge/Javascript-ffdd19?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled--components-D42F8A?style=flat&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/SASS-ff0d00.svg?style=flat&logo=SASS&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-181717?style=flat&logo=git&logoColor=white">
  <img src="https://img.shields.io/badge/notion-7478AE?style=flat&logo=notion&logoColor=white">  
 </p>
